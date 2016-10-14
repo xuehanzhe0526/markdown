@@ -1,0 +1,6 @@
+{
+    "server": "ss1.foolwall.xyz",
+    "server_port": 28743,
+    "password": "PcR268",
+    "method": "aes-256-cfb"
+}
